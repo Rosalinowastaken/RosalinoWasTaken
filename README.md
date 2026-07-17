@@ -1,5 +1,3 @@
-Rosalinowastaken / README.md
-
 Hey there
 
 Soy Rosalino, desarrollador full stack basado en Madrid, España.
