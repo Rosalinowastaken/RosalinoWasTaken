@@ -1,6 +1,6 @@
 Hey there
 
-I'm Rosalino, a Full Stack Developer and Junior Pentester based in Madrid, Spain, with a Master's in Cybersecurity and AI.
+I'm Rosalino, a Full Stack Developer based in Madrid, Spain, currently finishing a Master's in Cybersecurity and AI.
 
 I work mostly on backend architecture and application security — Java, Spring Boot, FastAPI, and JWT/OAuth2/RBAC for authentication and access control. On the frontend I use React, Angular and TypeScript, and I deploy everything with Docker, Nginx and Linux.
 
@@ -38,8 +38,8 @@ Security Focus
 <tr><td width="24"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="18" height="18"/></td><td>SIEM &amp; log analysis (Wazuh, OpenSearch)</td></tr>
 <tr><td><img src="https://cdn.simpleicons.org/mitre/CE0000" width="18" height="18"/></td><td>Threat detection mapped to MITRE ATT&amp;CK</td></tr>
 <tr><td><img src="https://cdn.simpleicons.org/virustotal/394EFF" width="18" height="18"/></td><td>Threat intelligence — VirusTotal, AbuseIPDB, CISA KEV</td></tr>
-<tr><td><img src="https://cdn.simpleicons.org/gnuprivacyguard/0093DD" width="18" height="18"/></td><td>JWT / OAuth2 / RBAC hardening</td></tr>
-<tr><td><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="18" height="18"/></td><td>Honeypots &amp; deception (Cowrie, SSH/Telnet traps)</td></tr>
+<tr><td><img src="https://cdn.simpleicons.org/auth0/EB5424" width="18" height="18"/></td><td>JWT / OAuth2 / RBAC hardening</td></tr>
+<tr><td><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="18" height="18"/></td><td>Honeypots &amp; deception (Cowrie, SSH/Telnet traps)</td></tr>
 </table>
 
 A Bit About Me
@@ -63,8 +63,12 @@ The difference is, I actually like pushing it.
 Contact
 
 <table>
-<tr><td width="24"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18"/></td><td><a href="https://linkedin.com/in/rosalino-martinez-alban-305586370">LinkedIn</a></td></tr>
-<tr><td><img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="18" height="18"/></td><td>rosalino.ma@outlook.com</td></tr>
+<tr><td width="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="18" height="18"/></td><td><a href="https://linkedin.com/in/rosalino-martinez-alban-305586370">LinkedIn</a></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="18" height="18"/></td><td>rosalino.ma@outlook.com</td></tr>
 </table>
 
-<div class="tenor-gif-embed" data-postid="14007860" data-share-method="host" data-aspect-ratio="1.78431" data-width="100%"><a href="https://tenor.com/view/listening-waiting-repetition-bored-grizz-gif-14007860">Listening Waiting GIF</a>from <a href="https://tenor.com/search/listening-gifs">Listening GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <a href="https://tenor.com/view/listening-waiting-repetition-bored-grizz-gif-14007860">
+    <img src="https://media1.tenor.com/m/VlhpkhuaF8YAAAAd/listening-waiting.gif" width="360" alt="Listening Waiting GIF"/>
+  </a>
+</p>
